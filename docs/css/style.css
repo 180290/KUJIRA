@@ -4,14 +4,14 @@
 body {
 	margin: 0 0 0 0;
 	padding: 0 0 0 0;
-	background-color: #f5f3eb;
+	background-color: #EF93F1;
 }
 .wrapper {
 	margin: 0 auto 0 auto;
 	width: 900px;
 }
 h2 {
-	color: #442220;
+	color: #F1453B;
 	font-size: 18px;
 	border-bottom-width: 2px;
 	border-bottom-style: dotted;
@@ -57,24 +57,24 @@ img {
 	padding-right: 30px;
 }
 #nav {
-	margin: 0 0 0 0;
-	padding: 15px 30px 10px 30px;
-	background-image: url(../images/menu-bg.png);
+    margin: 0 0 0 0;
+    padding: 15px 30px 10px 30px;
+    background-image: url(../images/920_s.jpg);
 }
 #nav li a:link {
-	color: #f5f3eb;
+	color: #FBD22E;
 	text-decoration: none;
 }
 #nav li a:visited {
-	color: #f5f3eb;
+	color: #FBD22E;
 	text-decoration: none;
 }
 #nav li a:hover {
-	color: #e4dbb9;
+	color: #FF4CE2;
 	text-decoration: none;
 }
 #nav li a:active {
-	color: #ffffff;
+	color: #FBD22E;
 	text-decoration: none;
 }
 
